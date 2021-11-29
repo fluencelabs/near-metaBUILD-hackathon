@@ -14,17 +14,7 @@ Since the duration of this hackathon allows for the tackling of some serious ide
 
 ### Beginner's Challenge -- 10 x USD 150.00
 
-Use Fluence and Aqua manage an NFT contract from deployment to operation. To this end:
-
-1. Store the NEAR NFT contract Wasm file(s) on IPFS
-2. Use Fluence and Aqua to deploy the contract from IPFS to the NEAR testnet
-3. Use Fluence and Aqua to at least mint and transfer NFTs from your contract
-
-In addition to the general resources provided below, have a look at these links to get you started quickly:
-
-* [Fluence IPFS Integration](https://doc.fluence.dev/aqua-book/libraries/aqua-ipfs)
-* [Near NFT contract](https://examples.near.org/NFT)
-
+Use Fluence and Aqua to make use of or extend the NEAR [fluence js node]() or [marine services](). Examples include but are not limited to deploying an NFT contract, e.g., [Near NFT contract](https://examples.near.org/NFT), and minting a couple NFTs wih Fluence and Aqua.
 
 ### IntermediateChallenge -- 1 x USD 1,000.00
 
@@ -64,16 +54,17 @@ References
 * [Sputink CLI](https://github.com/cloudmex/sputnikdao-cli)
 * [Fluence off-chain proposal validation examples](https://github.com/fluencelabs/eip712-validation-node)
  
+ ## Best Use of Fluence And Aqua In Your DApp -- 1 x USD 2,500
+
+Already got an idea or even DApp? This category challenges you to replace one or more centralized aspects of your solution with Fluence and Aqua. 
 
 ### Submission Requirements
 
 * Generously document your submission
-* Provide a max three (3) minute video for Beginner challenges and a max five (5) minute video for intermediate and advanced challenges to present and demonstrate your solution 
-* Submit via a Github or GitLab repo with MIT or Apache 2.0 license 
+* Provide a max three (3) minute video for Beginner challenges and a max five (5) minute video for any of the other challenges to present and demonstrate your solution
+* Submit via a Github or GitLab repo with MIT or Apache 2.0 license
 
 Judging is based on originality, functionality and completeness of the submission. In the case of multiple prizes for a given challenge, the order of submissions determines payout rank for complete and functional projects.
-
-
 
 ## Resources
 
