@@ -14,14 +14,13 @@ Since the duration of this hackathon allows for the tackling of some serious ide
 
 ### Beginner's Challenge -- 10 x USD 150.00
 
-Use Fluence and Aqua to make use of or extend the NEAR [fluence js node]() or [marine services](). Examples include but are not limited to deploying an NFT contract, e.g., [Near NFT contract](https://examples.near.org/NFT), and minting a couple NFTs wih Fluence and Aqua.
+Use or extend the NEAR [fluence js node]() or [marine services]() with the NEAR testnet. Examples include but are not limited to deploying an NFT contract, e.g., [Near NFT contract](https://examples.near.org/NFT), or minting a couple NFTs wih Fluence and Aqua.
 
-### IntermediateChallenge -- 1 x USD 1,000.00
+### Intermediate/Advanced Challenge -- 1 x USD 1,500.00
 
-It's time to reenergize the plain old NFT (PON) with dynamic metadata. Using Fluence and Aqua, design and implement a (sub-) protocol to create and manage dynamic NFTs deployed on NEAR chain using IPFS, Ceramic, Textile or a similar as your decentralized persistence layer. For example, consider a dynamic NFT representing a sports persona, stock (immutable), game or political election where event-driven data triggers updates to the NFT's metadata.
+It's time to reenergize the plain old NFT (PON) with dynamic metadata. Using Fluence and Aqua, design and implement a (sub-) protocol to create and manage dynamic NFTs deployed on the NEAR (testnet) chain using IPFS, Ceramic, Textile or a similar as your decentralized persistence layer. For example, consider a dynamic NFT representing a sports persona, stock (immutable), game or political election where event-driven data triggers updates to the NFT's metadata.
 
-
-### Advanced Challenge -- 1 x USD 2,500.00
+### Advanced Challenge -- 1 x USD 2,000.00
 
 In the advanced category, we offer you multiple challenges. Pick one and make it yours.
 
@@ -29,9 +28,9 @@ In the advanced category, we offer you multiple challenges. Pick one and make it
 
 Use Fluence and Aqua to index NEAR on-chain events to a decentralized storage solution such as IPFS, Ceramic or Textile. 
 
-* References
-*   [NEAR indexer example](https://docs.near.org/docs/tutorials/near-indexer)
-*   [NEAR and Textile indexer example](https://github.com/hdriqi/near-textile-indexer-example for examples)
+* References:
+  * [NEAR indexer example](https://docs.near.org/docs/tutorials/near-indexer)
+  * [NEAR and Textile indexer example](https://github.com/hdriqi/near-textile-indexer-example for examples)
 
 #### On-Chain Event Capture And Processing
 
@@ -54,9 +53,9 @@ References
 * [Sputink CLI](https://github.com/cloudmex/sputnikdao-cli)
 * [Fluence off-chain proposal validation examples](https://github.com/fluencelabs/eip712-validation-node)
  
- ## Best Use of Fluence And Aqua In Your DApp -- 1 x USD 2,500
+ ## Best Use of Fluence And Aqua In Your DApp -- 1 x USD 2,000
 
-Already got an idea or even DApp? This category challenges you to replace one or more centralized aspects of your solution with Fluence and Aqua. 
+Already got an idea or even DApp? This category challenges you to replace one or more centralized aspects of your solution or add off-chan compute or consensus capabilities with Fluence and Aqua.
 
 ### Submission Requirements
 
